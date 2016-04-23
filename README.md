@@ -7,4 +7,5 @@ Open Source Software for Routing
 -  OpenBGPd   : http://www.openbgpd.org/
 -  Quagga     : http://www.quagga.net/
 -  XORP       : http://www.xorp.org/
--  Quaga Docs : http://www.nongnu.org/quagga/docs/quagga.html 
+-  Quaga Docs : http://www.nongnu.org/quagga/docs/quagga.html  [[next]](http://www.nongnu.org/quagga/docs/docs-info.html#About-Quagga)
+                
